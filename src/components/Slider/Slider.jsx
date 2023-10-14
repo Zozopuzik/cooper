@@ -39,16 +39,16 @@ export default function Slider() {
         showDots={true}
       >
         <div className="item-wrapper">
-          <img className="carousel-img" src={Cooper1}></img>
+          <img className="carousel-img" src={Cooper1} alt="213"></img>
         </div>
         <div className="item-wrapper">
-          <img className="carousel-img" src={Cooper2}></img>
+          <img className="carousel-img" src={Cooper2} alt="213"></img>
         </div>
         <div className="item-wrapper">
-          <img className="carousel-img" src={Cooper3}></img>
+          <img className="carousel-img" src={Cooper3} alt="213"></img>
         </div>
         <div className="item-wrapper">
-          <img className="carousel-img" src={Cooper4}></img>
+          <img className="carousel-img" src={Cooper4} alt="213"></img>
         </div>
 
       </Carousel>

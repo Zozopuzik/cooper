@@ -12,7 +12,7 @@ export default function Contacts() {
   };
 
   return (
-    <div className="contacts-wrapper">
+    <div className="contacts-wrapper" id="contacts">
          <div className="carousel-heading">Contact Me</div>
       <div className="contact-info">
         <p className="callMe"> Call Me: +380968323305</p>

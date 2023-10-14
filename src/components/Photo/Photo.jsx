@@ -5,7 +5,7 @@ import "./Photo.css";
 export default function Photo() {
   return (
     <div>
-        <img src={Cooper} alt="" className='cooper'/>
+        <img src={Cooper} alt="213" className='cooper'/>
     </div>
   )
 }
